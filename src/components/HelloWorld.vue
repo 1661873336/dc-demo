@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    fdsjkfheskjfshfs
+    母猪夜半惨叫，七旬老太惨遭毒手，到底是人性的扭曲还是道德的沦丧，我们去采访当事人张国豪
   </div>
 </template>
 
