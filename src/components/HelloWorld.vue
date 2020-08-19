@@ -1,6 +1,10 @@
 <template>
   <div class="hello">
+<<<<<<< HEAD
    {{msg}}
+=======
+     <p>Welcome to Your Vue.js App</p>
+>>>>>>> lc
   </div>
 </template>
 
@@ -9,7 +13,6 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
     }
   }
 }
